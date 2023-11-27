@@ -1,0 +1,22 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+1,0,"1","Westnedge",,3,,018200,FFFFFF,1
+2,0,"2","Portage",,3,,FFFF00,FFFFFF,2
+3,0,"3","West Michigan",,3,,14A9AC,FFFFFF,3
+4,0,"4","Oakland",,3,,9E9E9E,FFFFFF,4
+5,0,"5","East Main",,3,,A16632,FFFFFF,5
+6,0,"6","Parchment",,3,,FFA5A5,FFFFFF,6
+7,0,"7","Alamo",,3,,000000,FFFFFF,7
+8,0,"8","Egleston",,3,,CD2990,FFFFFF,8
+9,0,"9","Gull Road",,3,,A5FAFA,FFFFFF,9
+10,0,"10","Comstock",,3,,FE8519,FFFFFF,10
+11,0,"11","Stadium/KVCC",,3,,A6FFA5,FFFFFF,11
+12,0,"12","Duke",,3,,0A1172,FFFFFF,12
+13,0,"13","South Burdick",,3,,FF0000,FFFFFF,13
+14,0,"14","West Main",,3,,640000,FFFFFF,14
+15,0,"15","Paterson",,3,,7B50CE,FFFFFF,15
+16,0,"16","Lovell",,3,,787878,FFFFFF,16
+19,0,"19","Ring Road",,3,,A52A2A,ffffff,19
+21,0,"21","Solon/Kendall",,3,,4b7baf,ffffff,21
+25,0,"25","Parkview Campus",,3,,FF5733,ffffff,25
+26,0,"26","West Center",,3,,B97445,FFFFFF,26
+27,0,"27","East Romence",,3,,4F3DC9,FFFFFF,27

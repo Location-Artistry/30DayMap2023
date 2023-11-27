@@ -1,0 +1,2335 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1,9,t5A5-b67-sl9,"KTC to xroads",,103,4599_shp,0,0
+1,9,t5EB-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t5EB-b67-sl9,"xroads to KTC",,103,4596_shp,0,0
+1,9,t609-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t609-b67-sl9,"KTC to xroads",,103,4599_shp,0,0
+1,9,t64F-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t64F-b67-sl9,"xroads to KTC",,103,4596_shp,0,0
+1,9,t66D-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t66D-b67-sl9,"KTC to xroads",,103,4599_shp,0,0
+1,9,t6B3-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t6B3-b67-sl9,"xroads to KTC",,103,4596_shp,0,0
+1,9,t6D1-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t717-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t735-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t77B-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t799-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t7DF-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t7FD-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t843-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t861-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+2,3,t267-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t285-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t2CB-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t2E9-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t32F-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t34D-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t393-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t3B1-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t3F7-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t415-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t45B-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t479-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t4BF-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t4DD-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t523-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t541-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t587-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t5A5-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t5EB-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t609-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t64F-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t66D-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t6B3-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t6D1-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t717-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t735-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t77B-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t799-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t7DF-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t7FD-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,3,t843-bC9-sl3,"KTC - Ptg Ind Pk",,201,4451_shp,0,0
+2,3,t861-bC9-sl3,"Ptg Ind Pk - KTC",,201,4448_shp,0,0
+2,4,t267-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t285-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t2CB-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t2E9-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t32F-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t34D-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t393-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t3B1-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t3F7-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t415-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t45B-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t479-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t4BF-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t4DD-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t523-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t541-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t587-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t5A5-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t5EB-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t609-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t64F-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t66D-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t6B3-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t6D1-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t717-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t735-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t77B-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t799-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t7DF-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t7FD-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,4,t843-bC9-sl4,"KTC - Ptg Ind Pk",,201,4450_shp,0,0
+2,4,t861-bC9-sl4,"Ptg Ind Pk - KTC",,201,4447_shp,0,0
+2,5,t393-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t3B1-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t3F7-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t415-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t45B-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t479-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t4BF-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t4DD-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t523-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t541-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t587-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t5A5-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t5EB-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t609-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,5,t64F-bC9-sl5,"KTC - Ptg Ind Pk",,201,4445_shp,0,0
+2,5,t66D-bC9-sl5,"Ptg Ind Pk - KTC",,201,4444_shp,0,0
+2,9,t267-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t285-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t2CB-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t2E9-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t32F-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t34D-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t393-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t3B1-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t3F7-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t415-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t45B-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t479-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t4BF-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t4DD-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t523-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t541-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t587-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t5A5-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t5EB-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t609-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t64F-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t66D-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t6B3-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t6D1-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t717-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t735-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t77B-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t799-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t7DF-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t7FD-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+2,9,t843-bC9-sl9,"KTC - Ptg Ind Pk",,201,4449_shp,0,0
+2,9,t861-bC9-sl9,"Ptg Ind Pk - KTC",,201,4446_shp,0,0
+3,3,t258-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t276-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t2BC-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t2DA-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t320-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t33E-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t384-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t3A2-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t3E8-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t406-b12D-sl3,"Mple Hill to WMU",,301,4663_shp,0,0
+3,3,t44C-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t46A-b12D-sl3,"Mple Hill to WMU",,301,4663_shp,0,0
+3,3,t4B0-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t4CE-b12D-sl3,"Mple Hill to WMU",,301,4663_shp,0,0
+3,3,t514-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t532-b12D-sl3,"Mple Hill to WMU",,301,4663_shp,0,0
+3,3,t578-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t596-b12D-sl3,"Mple Hill to WMU",,301,4663_shp,0,0
+3,3,t5DC-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t5FA-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t640-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t65E-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t6A4-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t6C2-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t708-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t726-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t76C-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t78A-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t7D0-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t7EE-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,3,t834-b12D-sl3,"WMU to Mple Hill",,301,4655_shp,0,0
+3,3,t852-b12D-sl3,"Mple Hill to WMU",,301,4660_shp,0,0
+3,4,t258-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t276-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t2BC-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t2DA-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t320-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t33E-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t384-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t3A2-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t3E8-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t406-b12D-sl4,"Mple Hill to WMU",,301,4662_shp,0,0
+3,4,t44C-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t46A-b12D-sl4,"Mple Hill to WMU",,301,4662_shp,0,0
+3,4,t4B0-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t4CE-b12D-sl4,"Mple Hill to WMU",,301,4662_shp,0,0
+3,4,t514-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t532-b12D-sl4,"Mple Hill to WMU",,301,4662_shp,0,0
+3,4,t578-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t596-b12D-sl4,"Mple Hill to WMU",,301,4662_shp,0,0
+3,4,t5DC-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t5FA-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t640-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t65E-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t6A4-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t6C2-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t708-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t726-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t76C-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t78A-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t7D0-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t7EE-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,4,t834-b12D-sl4,"WMU to Mple Hill",,301,4657_shp,0,0
+3,4,t852-b12D-sl4,"Mple Hill to WMU",,301,4659_shp,0,0
+3,5,t384-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t3A2-b12D-sl5,"Mple Hill to WMU",,301,4652_shp,0,0
+3,5,t3E8-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t406-b12D-sl5,"Mple Hill to WMU",,301,4653_shp,0,0
+3,5,t44C-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t46A-b12D-sl5,"Mple Hill to WMU",,301,4653_shp,0,0
+3,5,t4B0-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t4CE-b12D-sl5,"Mple Hill to WMU",,301,4653_shp,0,0
+3,5,t514-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t532-b12D-sl5,"Mple Hill to WMU",,301,4653_shp,0,0
+3,5,t578-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t596-b12D-sl5,"Mple Hill to WMU",,301,4653_shp,0,0
+3,5,t5DC-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t5FA-b12D-sl5,"Mple Hill to WMU",,301,4652_shp,0,0
+3,5,t640-b12D-sl5,"WMU to Mple Hill",,301,4654_shp,0,0
+3,5,t65E-b12D-sl5,"Mple Hill to WMU",,301,4652_shp,0,0
+3,9,t258-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t276-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t2BC-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t2DA-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t320-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t33E-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t384-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t3A2-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t3E8-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t406-b12D-sl9,"Mple Hill to WMU",,301,4661_shp,0,0
+3,9,t44C-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t46A-b12D-sl9,"Mple Hill to WMU",,301,4661_shp,0,0
+3,9,t4B0-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t4CE-b12D-sl9,"Mple Hill to WMU",,301,4661_shp,0,0
+3,9,t514-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t532-b12D-sl9,"Mple Hill to WMU",,301,4661_shp,0,0
+3,9,t578-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t596-b12D-sl9,"Mple Hill to WMU",,301,4661_shp,0,0
+3,9,t5DC-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t5FA-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t640-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t65E-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t6A4-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t6C2-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t708-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t726-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t76C-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t78A-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t7D0-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t7EE-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+3,9,t834-b12D-sl9,"WMU to Mple Hill",,301,4656_shp,0,0
+3,9,t852-b12D-sl9,"Mple Hill to WMU",,301,4658_shp,0,0
+4,3,t267-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t279-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t2CB-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t2DD-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t32F-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t341-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t393-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t3A5-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t3F7-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t409-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t45B-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t46D-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t4BF-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t4D1-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t523-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t535-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t587-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t599-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t5EB-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t5FD-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t64F-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t661-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t6B3-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t6C5-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t717-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t729-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t77B-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t78D-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t7DF-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t7F1-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,3,t843-b191-sl3,"KTC-Milham Mdws",,401,4609_shp,0,0
+4,3,t855-b191-sl3,"Milham Mdws-KTC",,401,4606_shp,0,0
+4,4,t267-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t279-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t2CB-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t2DD-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t32F-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t341-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t393-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t3A5-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t3F7-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t409-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t45B-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t46D-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t4BF-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t4D1-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t523-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t535-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t587-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t599-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t5EB-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t5FD-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t64F-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t661-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t6B3-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t6C5-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t717-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t729-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t77B-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t78D-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t7DF-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t7F1-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,4,t843-b191-sl4,"KTC-Milham Mdws",,401,4608_shp,0,0
+4,4,t855-b191-sl4,"Milham Mdws-KTC",,401,4605_shp,0,0
+4,5,t393-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t3A5-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t3F7-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t409-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t45B-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t46D-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t4BF-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t4D1-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t523-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t535-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t587-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t599-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t5EB-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t5FD-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,5,t64F-b191-sl5,"KTC-Milham Mdws",,401,4611_shp,0,0
+4,5,t661-b191-sl5,"Milham Mdws-KTC",,401,4610_shp,0,0
+4,9,t267-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t279-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t2CB-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t2DD-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t32F-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t341-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t393-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t3A5-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t3F7-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t409-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t45B-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t46D-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t4BF-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t4D1-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t523-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t535-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t587-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t599-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t5EB-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t5FD-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t64F-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t661-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t6B3-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t6C5-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t717-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t729-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t77B-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t78D-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t7DF-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t7F1-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+4,9,t843-b191-sl9,"KTC-Milham Mdws",,401,4607_shp,0,0
+4,9,t855-b191-sl9,"Milham Mdws-KTC",,401,4604_shp,0,0
+5,3,t267-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t271-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t2CB-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t2D5-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t32F-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t339-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t393-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t39D-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t3F7-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t401-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t45B-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t465-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t4BF-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t4C9-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t523-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t52D-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t587-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t591-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t5EB-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t5F5-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t64F-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t659-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t6B3-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t6BD-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t717-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t721-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t77B-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t785-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t7DF-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t7E9-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,3,t843-b1F5-sl3,"KTC to Eastwood",,501,4465_shp,0,0
+5,3,t84D-b1F5-sl3,"Eastwood to KTC",,501,4462_shp,0,0
+5,4,t267-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t271-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t2CB-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t2D5-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t32F-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t339-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t393-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t39D-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t3F7-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t401-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t45B-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t465-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t4BF-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t4C9-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t523-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t52D-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t587-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t591-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t5EB-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t5F5-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t64F-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t659-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t6B3-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t6BD-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t717-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t721-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t77B-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t785-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t7DF-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t7E9-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,4,t843-b1F5-sl4,"KTC to Eastwood",,501,4464_shp,0,0
+5,4,t84D-b1F5-sl4,"Eastwood to KTC",,501,4461_shp,0,0
+5,5,t393-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t39D-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t3F7-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t401-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t45B-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t465-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t4BF-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t4C9-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t523-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t52D-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t587-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t591-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t5EB-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t5F5-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,5,t64F-b1F5-sl5,"KTC to Eastwood",,501,4496_shp,0,0
+5,5,t659-b1F5-sl5,"Eastwood to KTC",,501,4494_shp,0,0
+5,9,t267-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t271-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t2CB-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t2D5-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t32F-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t339-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t393-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t39D-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t3F7-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t401-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t45B-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t465-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t4BF-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t4C9-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t523-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t52D-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t587-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t591-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t5EB-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t5F5-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t64F-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t659-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t6B3-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t6BD-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t717-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t721-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t77B-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t785-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t7DF-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t7E9-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+5,9,t843-b1F5-sl9,"KTC to Eastwood",,501,4463_shp,0,0
+5,9,t84D-b1F5-sl9,"Eastwood to KTC",,501,4460_shp,0,0
+6,3,t267-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t285-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t2CB-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t2E9-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t32F-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t34D-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t393-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t3B1-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t3F7-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t415-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t45B-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t479-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t4BF-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t4DD-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t523-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t541-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t587-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t5A5-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t5EB-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t609-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t64F-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t66D-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t6B3-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t6D1-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t717-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t735-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t77B-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t799-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t7DF-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t7FD-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,3,t843-b259-sl3,"KTC -Wal Mart GR",,601,4457_shp,0,0
+6,3,t861-b259-sl3,"Wal Mart GR- KTC",,601,4454_shp,0,0
+6,4,t267-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t285-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t2CB-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t2E9-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t32F-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t34D-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t393-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t3B1-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t3F7-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t415-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t45B-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t479-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t4BF-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t4DD-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t523-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t541-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t587-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t5A5-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t5EB-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t609-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t64F-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t66D-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t6B3-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t6D1-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,4,t717-b259-sl4,"KTC -Wal Mart GR",,601,4456_shp,0,0
+6,4,t735-b259-sl4,"Wal Mart GR- KTC",,601,4453_shp,0,0
+6,5,t393-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t3B1-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t3F7-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t415-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t45B-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t479-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t4BF-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t4DD-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t523-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t541-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t587-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t5A5-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t5EB-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t609-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,5,t64F-b259-sl5,"KTC -Wal Mart GR",,601,4459_shp,0,0
+6,5,t66D-b259-sl5,"Wal Mart GR- KTC",,601,4458_shp,0,0
+6,9,t267-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t285-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t2CB-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t2E9-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t32F-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t34D-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t393-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t3B1-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t3F7-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t415-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t45B-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t479-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t4BF-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t4DD-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t523-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t541-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t587-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t5A5-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t5EB-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t609-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t64F-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t66D-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t6B3-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t6D1-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t717-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t735-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t77B-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t799-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t7DF-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t7FD-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+6,9,t843-b259-sl9,"KTC -Wal Mart GR",,601,4455_shp,0,0
+6,9,t861-b259-sl9,"Wal Mart GR- KTC",,601,4452_shp,0,0
+7,3,t267-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t280-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t2CB-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t2E4-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t32F-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t348-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t393-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t3AC-b2BD-sl3,"W Main Mall- KTC",,701,4430_shp,0,0
+7,3,t3F7-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t410-b2BD-sl3,"W Main Mall- KTC",,701,4430_shp,0,0
+7,3,t45B-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t474-b2BD-sl3,"W Main Mall- KTC",,701,4430_shp,0,0
+7,3,t4BF-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t4D8-b2BD-sl3,"W Main Mall- KTC",,701,4430_shp,0,0
+7,3,t523-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t53C-b2BD-sl3,"W Main Mall- KTC",,701,4430_shp,0,0
+7,3,t587-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t5A0-b2BD-sl3,"W Main Mall- KTC",,701,4430_shp,0,0
+7,3,t5EB-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t604-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t64F-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t668-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t6B3-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t6CC-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t717-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t730-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t77B-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t794-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t7DF-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t7F8-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,3,t843-b2BD-sl3,"KTC- W Main Mall",,701,4436_shp,0,0
+7,3,t85C-b2BD-sl3,"W Main Mall- KTC",,701,4427_shp,0,0
+7,4,t267-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t280-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t2CB-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t2E4-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t32F-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t348-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t393-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t3AC-b2BD-sl4,"W Main Mall- KTC",,701,4429_shp,0,0
+7,4,t3F7-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t410-b2BD-sl4,"W Main Mall- KTC",,701,4429_shp,0,0
+7,4,t45B-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t474-b2BD-sl4,"W Main Mall- KTC",,701,4429_shp,0,0
+7,4,t4BF-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t4D8-b2BD-sl4,"W Main Mall- KTC",,701,4429_shp,0,0
+7,4,t523-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t53C-b2BD-sl4,"W Main Mall- KTC",,701,4429_shp,0,0
+7,4,t587-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t5A0-b2BD-sl4,"W Main Mall- KTC",,701,4429_shp,0,0
+7,4,t5EB-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t604-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t64F-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t668-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t6B3-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t6CC-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t717-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t730-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t77B-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t794-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t7DF-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t7F8-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,4,t843-b2BD-sl4,"KTC- W Main Mall",,701,4434_shp,0,0
+7,4,t85C-b2BD-sl4,"W Main Mall- KTC",,701,4425_shp,0,0
+7,5,t393-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t3AC-b2BD-sl5,"W Main Mall- KTC",,701,4441_shp,0,0
+7,5,t3F7-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t410-b2BD-sl5,"W Main Mall- KTC",,701,4441_shp,0,0
+7,5,t45B-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t474-b2BD-sl5,"W Main Mall- KTC",,701,4441_shp,0,0
+7,5,t4BF-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t4D8-b2BD-sl5,"W Main Mall- KTC",,701,4441_shp,0,0
+7,5,t523-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t53C-b2BD-sl5,"W Main Mall- KTC",,701,4441_shp,0,0
+7,5,t587-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t5A0-b2BD-sl5,"W Main Mall- KTC",,701,4441_shp,0,0
+7,5,t5EB-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t604-b2BD-sl5,"W Main Mall- KTC",,701,4440_shp,0,0
+7,5,t64F-b2BD-sl5,"KTC- W Main Mall",,701,4443_shp,0,0
+7,5,t668-b2BD-sl5,"W Main Mall- KTC",,701,4440_shp,0,0
+7,9,t267-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t280-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t2CB-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t2E4-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t32F-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t348-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t393-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t3AC-b2BD-sl9,"W Main Mall- KTC",,701,4428_shp,0,0
+7,9,t3F7-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t410-b2BD-sl9,"W Main Mall- KTC",,701,4428_shp,0,0
+7,9,t45B-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t474-b2BD-sl9,"W Main Mall- KTC",,701,4428_shp,0,0
+7,9,t4BF-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t4D8-b2BD-sl9,"W Main Mall- KTC",,701,4428_shp,0,0
+7,9,t523-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t53C-b2BD-sl9,"W Main Mall- KTC",,701,4428_shp,0,0
+7,9,t587-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t5A0-b2BD-sl9,"W Main Mall- KTC",,701,4428_shp,0,0
+7,9,t5EB-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t604-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t64F-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t668-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t6B3-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t6CC-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t717-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t730-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t77B-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t794-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t7DF-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t7F8-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+7,9,t843-b2BD-sl9,"KTC- W Main Mall",,701,4432_shp,0,0
+7,9,t85C-b2BD-sl9,"W Main Mall- KTC",,701,4423_shp,0,0
+8,3,t267-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t280-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t2CB-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t2E4-b321-sl3,"Ind Park to KTC",,801,4562_shp,0,0
+8,3,t32F-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t348-b321-sl3,"Ind Park to KTC",,801,4562_shp,0,0
+8,3,t393-b321-sl3,"KTC to Ind Park",,801,4571_shp,0,0
+8,3,t3AC-b321-sl3,"Ind Park to KTC",,801,4565_shp,0,0
+8,3,t3F7-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t410-b321-sl3,"Ind Park to KTC",,801,4565_shp,0,0
+8,3,t45B-b321-sl3,"KTC to Ind Park",,801,4571_shp,0,0
+8,3,t474-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t4BF-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t4D8-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t523-b321-sl3,"KTC to Ind Park",,801,4571_shp,0,0
+8,3,t53C-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t587-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t5A0-b321-sl3,"Ind Park to KTC",,801,4565_shp,0,0
+8,3,t5EB-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t604-b321-sl3,"Ind Park to KTC",,801,4562_shp,0,0
+8,3,t64F-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t668-b321-sl3,"Ind Park to KTC",,801,4562_shp,0,0
+8,3,t6B3-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t6CC-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t717-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t730-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t77B-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t794-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t7DF-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t7F8-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,3,t843-b321-sl3,"KTC to Ind Park",,801,4568_shp,0,0
+8,3,t85C-b321-sl3,"Ind Park to KTC",,801,4560_shp,0,0
+8,4,t267-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t280-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t2CB-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t2E4-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t32F-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t348-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t393-b321-sl4,"KTC to Ind Park",,801,4570_shp,0,0
+8,4,t3AC-b321-sl4,"Ind Park to KTC",,801,4564_shp,0,0
+8,4,t3F7-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t410-b321-sl4,"Ind Park to KTC",,801,4564_shp,0,0
+8,4,t45B-b321-sl4,"KTC to Ind Park",,801,4570_shp,0,0
+8,4,t474-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t4BF-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t4D8-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t523-b321-sl4,"KTC to Ind Park",,801,4570_shp,0,0
+8,4,t53C-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t587-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t5A0-b321-sl4,"Ind Park to KTC",,801,4564_shp,0,0
+8,4,t5EB-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t604-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t64F-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t668-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t6B3-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t6CC-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t717-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t730-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t77B-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t794-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t7DF-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t7F8-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,4,t843-b321-sl4,"KTC to Ind Park",,801,4567_shp,0,0
+8,4,t85C-b321-sl4,"Ind Park to KTC",,801,4559_shp,0,0
+8,5,t393-b321-sl5,"KTC to Ind Park",,801,4575_shp,0,0
+8,5,t3AC-b321-sl5,"Ind Park to KTC",,801,4573_shp,0,0
+8,5,t3F7-b321-sl5,"KTC to Ind Park",,801,4574_shp,0,0
+8,5,t410-b321-sl5,"Ind Park to KTC",,801,4573_shp,0,0
+8,5,t45B-b321-sl5,"KTC to Ind Park",,801,4575_shp,0,0
+8,5,t474-b321-sl5,"Ind Park to KTC",,801,4572_shp,0,0
+8,5,t4BF-b321-sl5,"KTC to Ind Park",,801,4574_shp,0,0
+8,5,t4D8-b321-sl5,"Ind Park to KTC",,801,4572_shp,0,0
+8,5,t523-b321-sl5,"KTC to Ind Park",,801,4575_shp,0,0
+8,5,t53C-b321-sl5,"Ind Park to KTC",,801,4572_shp,0,0
+8,5,t587-b321-sl5,"KTC to Ind Park",,801,4574_shp,0,0
+8,5,t5A0-b321-sl5,"Ind Park to KTC",,801,4573_shp,0,0
+8,5,t5EB-b321-sl5,"KTC to Ind Park",,801,4574_shp,0,0
+8,5,t604-b321-sl5,"Ind Park to KTC",,801,4572_shp,0,0
+8,5,t64F-b321-sl5,"KTC to Ind Park",,801,4574_shp,0,0
+8,5,t668-b321-sl5,"Ind Park to KTC",,801,4572_shp,0,0
+8,9,t267-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t280-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t2CB-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t2E4-b321-sl9,"Ind Park to KTC",,801,4561_shp,0,0
+8,9,t32F-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t348-b321-sl9,"Ind Park to KTC",,801,4561_shp,0,0
+8,9,t393-b321-sl9,"KTC to Ind Park",,801,4569_shp,0,0
+8,9,t3AC-b321-sl9,"Ind Park to KTC",,801,4563_shp,0,0
+8,9,t3F7-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t410-b321-sl9,"Ind Park to KTC",,801,4563_shp,0,0
+8,9,t45B-b321-sl9,"KTC to Ind Park",,801,4569_shp,0,0
+8,9,t474-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t4BF-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t4D8-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t523-b321-sl9,"KTC to Ind Park",,801,4569_shp,0,0
+8,9,t53C-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t587-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t5A0-b321-sl9,"Ind Park to KTC",,801,4563_shp,0,0
+8,9,t5EB-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t604-b321-sl9,"Ind Park to KTC",,801,4561_shp,0,0
+8,9,t64F-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t668-b321-sl9,"Ind Park to KTC",,801,4561_shp,0,0
+8,9,t6B3-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t6CC-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t717-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t730-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t77B-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t794-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t7DF-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t7F8-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+8,9,t843-b321-sl9,"KTC to Ind Park",,801,4566_shp,0,0
+8,9,t85C-b321-sl9,"Ind Park to KTC",,801,4558_shp,0,0
+9,3,t267-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t285-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t2CB-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t2E9-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t32F-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t34D-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t393-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t3B1-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t3F7-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t415-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t45B-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t479-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t4BF-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t4DD-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t4DD-b386-sl3,"KTC- Wal Mart GR",,902,4581_shp,0,0
+9,3,t523-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t523-b386-sl3,"Wal Mart GR- KTC",,902,4578_shp,0,0
+9,3,t541-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t541-b386-sl3,"KTC- Wal Mart GR",,902,4581_shp,0,0
+9,3,t587-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t587-b386-sl3,"Wal Mart GR- KTC",,902,4578_shp,0,0
+9,3,t5A5-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t5A5-b386-sl3,"KTC- Wal Mart GR",,902,4581_shp,0,0
+9,3,t5EB-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t5EB-b386-sl3,"Wal Mart GR- KTC",,902,4578_shp,0,0
+9,3,t609-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t609-b386-sl3,"KTC- Wal Mart GR",,902,4581_shp,0,0
+9,3,t64F-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t64F-b386-sl3,"Wal Mart GR- KTC",,902,4578_shp,0,0
+9,3,t66D-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t66D-b386-sl3,"KTC- Wal Mart GR",,902,4581_shp,0,0
+9,3,t6B3-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t6B3-b386-sl3,"Wal Mart GR- KTC",,902,4578_shp,0,0
+9,3,t6D1-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t717-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t735-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t77B-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t799-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t7DF-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t7FD-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,3,t843-b385-sl3,"KTC- Wal Mart GR",,901,4581_shp,0,0
+9,3,t861-b385-sl3,"Wal Mart GR- KTC",,901,4578_shp,0,0
+9,4,t267-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t285-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t2CB-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t2E9-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t32F-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t34D-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t393-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t3B1-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t3F7-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t415-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t45B-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t479-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t4BF-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t4DD-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t523-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+1,3,t267-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t285-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t2CB-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t2E9-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t32F-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t34D-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t393-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t3B1-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t3F7-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t415-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t45B-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t479-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t4BF-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t4DD-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t4DD-b67-sl3,"KTC to xroads",,103,4601_shp,0,0
+1,3,t523-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t523-b67-sl3,"xroads to KTC",,103,4598_shp,0,0
+1,3,t541-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t541-b67-sl3,"KTC to xroads",,103,4601_shp,0,0
+1,3,t587-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t587-b67-sl3,"xroads to KTC",,103,4598_shp,0,0
+1,3,t5A5-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t5A5-b67-sl3,"KTC to xroads",,103,4601_shp,0,0
+1,3,t5EB-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t5EB-b67-sl3,"xroads to KTC",,103,4598_shp,0,0
+1,3,t609-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t609-b67-sl3,"KTC to xroads",,103,4601_shp,0,0
+1,3,t64F-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t64F-b67-sl3,"xroads to KTC",,103,4598_shp,0,0
+1,3,t66D-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t66D-b67-sl3,"KTC to xroads",,103,4601_shp,0,0
+1,3,t6B3-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t6B3-b67-sl3,"xroads to KTC",,103,4598_shp,0,0
+1,3,t6D1-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t717-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t735-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t77B-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t799-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t7DF-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t7FD-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,3,t843-b66-sl3,"KTC to xroads",,102,4601_shp,0,0
+1,3,t861-b66-sl3,"xroads to KTC",,102,4598_shp,0,0
+1,4,t267-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t285-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t2CB-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t2E9-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t32F-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t34D-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t393-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t3B1-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t3F7-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t415-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t45B-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t479-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t4BF-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t4DD-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t523-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t541-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t587-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t5A5-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t5EB-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t609-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t64F-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t66D-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t6B3-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t6D1-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t717-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t735-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t77B-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t799-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t7DF-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t7FD-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,4,t843-b65-sl4,"KTC to xroads",,101,4600_shp,0,0
+1,4,t861-b65-sl4,"xroads to KTC",,101,4597_shp,0,0
+1,5,t393-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t3B1-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t3F7-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t415-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t45B-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t479-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t4BF-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t4DD-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t523-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t541-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t587-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t5A5-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t5EB-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t609-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,5,t64F-b65-sl5,"KTC to xroads",,101,4603_shp,0,0
+1,5,t66D-b65-sl5,"xroads to KTC",,101,4602_shp,0,0
+1,9,t267-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t285-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t2CB-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t2E9-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t32F-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t34D-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t393-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t3B1-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t3F7-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t415-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t45B-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t479-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t4BF-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t4DD-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t4DD-b67-sl9,"KTC to xroads",,103,4599_shp,0,0
+1,9,t523-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t523-b67-sl9,"xroads to KTC",,103,4596_shp,0,0
+1,9,t541-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+1,9,t541-b67-sl9,"KTC to xroads",,103,4599_shp,0,0
+1,9,t587-b66-sl9,"KTC to xroads",,102,4599_shp,0,0
+1,9,t587-b67-sl9,"xroads to KTC",,103,4596_shp,0,0
+1,9,t5A5-b66-sl9,"xroads to KTC",,102,4596_shp,0,0
+9,4,t541-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t587-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t5A5-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t5EB-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t609-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t64F-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t66D-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t6B3-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t6D1-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t717-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t735-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t77B-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t799-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t7DF-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t7FD-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,4,t843-b385-sl4,"KTC- Wal Mart GR",,901,4580_shp,0,0
+9,4,t861-b385-sl4,"Wal Mart GR- KTC",,901,4577_shp,0,0
+9,5,t393-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t3B1-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t3F7-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t415-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t45B-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t479-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t4BF-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t4DD-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t523-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t541-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t587-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t5A5-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t5EB-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t609-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,5,t64F-b385-sl5,"KTC- Wal Mart GR",,901,4583_shp,0,0
+9,5,t66D-b385-sl5,"Wal Mart GR- KTC",,901,4582_shp,0,0
+9,9,t267-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t285-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t2CB-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t2E9-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t32F-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t34D-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t393-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t3B1-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t3F7-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t415-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t45B-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t479-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t4BF-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t4DD-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t4DD-b386-sl9,"KTC- Wal Mart GR",,902,4579_shp,0,0
+9,9,t523-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t523-b386-sl9,"Wal Mart GR- KTC",,902,4576_shp,0,0
+9,9,t541-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t541-b386-sl9,"KTC- Wal Mart GR",,902,4579_shp,0,0
+9,9,t587-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t587-b386-sl9,"Wal Mart GR- KTC",,902,4576_shp,0,0
+9,9,t5A5-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t5A5-b386-sl9,"KTC- Wal Mart GR",,902,4579_shp,0,0
+9,9,t5EB-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t5EB-b386-sl9,"Wal Mart GR- KTC",,902,4576_shp,0,0
+9,9,t609-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t609-b386-sl9,"KTC- Wal Mart GR",,902,4579_shp,0,0
+9,9,t64F-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t64F-b386-sl9,"Wal Mart GR- KTC",,902,4576_shp,0,0
+9,9,t66D-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t66D-b386-sl9,"KTC- Wal Mart GR",,902,4579_shp,0,0
+9,9,t6B3-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t6B3-b386-sl9,"Wal Mart GR- KTC",,902,4576_shp,0,0
+9,9,t6D1-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t717-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t735-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t77B-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t799-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t7DF-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t7FD-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+9,9,t843-b385-sl9,"KTC- Wal Mart GR",,901,4579_shp,0,0
+9,9,t861-b385-sl9,"Wal Mart GR- KTC",,901,4576_shp,0,0
+10,3,t267-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t282-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t2CB-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t2E6-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t32F-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t34A-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t393-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t3AE-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t3F7-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t412-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t45B-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t476-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t4BF-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t4DA-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t523-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t53E-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t587-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t5A2-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t5EB-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t606-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t64F-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t66A-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t6B3-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t6CE-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t717-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t732-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t77B-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t796-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t7DF-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t7FA-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,3,t843-b3E9-sl3,"KTC to Meijer GR",,1001,4555_shp,0,0
+10,3,t85E-b3E9-sl3,"Meijer GR to KTC",,1001,4552_shp,0,0
+10,4,t267-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t282-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t2CB-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t2E6-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t32F-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t34A-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t393-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t3AE-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t3F7-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t412-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t45B-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t476-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t4BF-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t4DA-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t523-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t53E-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t587-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t5A2-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t5EB-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t606-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t64F-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t66A-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t6B3-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t6CE-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t717-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t732-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t77B-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t796-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t7DF-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t7FA-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,4,t843-b3E9-sl4,"KTC to Meijer GR",,1001,4554_shp,0,0
+10,4,t85E-b3E9-sl4,"Meijer GR to KTC",,1001,4551_shp,0,0
+10,5,t393-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t3AE-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t3F7-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t412-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t45B-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t476-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t4BF-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t4DA-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t523-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t53E-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t587-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t5A2-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t5EB-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t606-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,5,t64F-b3E9-sl5,"KTC to Meijer GR",,1001,4557_shp,0,0
+10,5,t66A-b3E9-sl5,"Meijer GR to KTC",,1001,4556_shp,0,0
+10,9,t267-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t282-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t2CB-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t2E6-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t32F-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t34A-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t393-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t3AE-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t3F7-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t412-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t45B-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t476-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t4BF-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t4DA-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t523-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t53E-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t587-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t5A2-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t5EB-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t606-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t64F-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t66A-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t6B3-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t6CE-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t717-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t732-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t77B-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t796-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t7DF-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t7FA-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+10,9,t843-b3E9-sl9,"KTC to Meijer GR",,1001,4553_shp,0,0
+10,9,t85E-b3E9-sl9,"Meijer GR to KTC",,1001,4550_shp,0,0
+11,3,t267-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t285-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t2CB-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t2E9-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t32F-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t34D-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t393-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t3B1-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t3F7-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t415-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t45B-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t479-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t4BF-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t4DD-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t523-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t541-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t587-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t5A5-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t5EB-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t609-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t64F-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t66D-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t6B3-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t6D1-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t717-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t735-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t77B-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t799-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t7DF-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t7FD-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,3,t843-b44D-sl3,"KTC- KVCC 9th St",,1101,4687_shp,0,0
+11,3,t861-b44D-sl3,"KVCC 9th to KTC",,1101,4681_shp,0,0
+11,4,t267-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t285-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t2CB-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t2E9-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t32F-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t34D-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t393-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t3B1-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t3F7-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t415-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t45B-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t479-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t4BF-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t4DD-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t523-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t541-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t587-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t5A5-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t5EB-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t609-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t64F-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t66D-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t6B3-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t6D1-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t717-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t735-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t77B-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t799-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t7DF-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t7FD-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,4,t843-b44D-sl4,"KTC- KVCC 9th St",,1101,4685_shp,0,0
+11,4,t861-b44D-sl4,"KVCC 9th to KTC",,1101,4679_shp,0,0
+11,5,t393-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t3B1-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t3F7-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t415-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t45B-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t479-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t4BF-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t4DD-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t523-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t541-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t587-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t5A5-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t5EB-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t609-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,5,t64F-b44D-sl5,"KTC- KVCC 9th St",,1101,4675_shp,0,0
+11,5,t66D-b44D-sl5,"KVCC 9th to KTC",,1101,4673_shp,0,0
+11,9,t267-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t285-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t2CB-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t2E9-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t32F-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t34D-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t393-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t3B1-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t3F7-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t415-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t45B-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t479-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t4BF-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t4DD-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t523-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t541-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t587-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t5A5-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t5EB-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t609-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t64F-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t66D-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t6B3-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t6D1-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t717-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t735-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t77B-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t799-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t7DF-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t7FD-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+11,9,t843-b44D-sl9,"KTC- KVCC 9th St",,1101,4683_shp,0,0
+11,9,t861-b44D-sl9,"KVCC 9th to KTC",,1101,4677_shp,0,0
+12,3,t267-b4B1-sl3,"KTC-Kal/BC Arprt",,1201,4691_shp,0,0
+12,3,t281-b4B1-sl3,"Kal/BC Arprt-KTC",,1201,4689_shp,0,0
+12,3,t2CB-b4B1-sl3,"KTC-Kal/BC Arprt",,1201,4691_shp,0,0
+12,3,t2E5-b4B1-sl3,"Kal/BC Arprt-KTC",,1201,4689_shp,0,0
+12,3,t32F-b4B1-sl3,"KTC-Kal/BC Arprt",,1201,4691_shp,0,0
+12,3,t349-b4B1-sl3,"Kal/BC Arprt-KTC",,1201,4689_shp,0,0
+12,3,t587-b4B2-sl3,"KTC-Kal/BC Arprt",,1202,4691_shp,0,0
+12,3,t5A1-b4B2-sl3,"Kal/BC Arprt-KTC",,1202,4689_shp,0,0
+12,3,t5EB-b4B2-sl3,"KTC-Kal/BC Arprt",,1202,4691_shp,0,0
+12,3,t605-b4B2-sl3,"Kal/BC Arprt-KTC",,1202,4689_shp,0,0
+12,3,t64F-b4B2-sl3,"KTC-Kal/BC Arprt",,1202,4691_shp,0,0
+12,3,t669-b4B2-sl3,"Kal/BC Arprt-KTC",,1202,4689_shp,0,0
+12,3,t6B3-b4B2-sl3,"KTC-Kal/BC Arprt",,1202,4691_shp,0,0
+12,3,t6CD-b4B2-sl3,"Kal/BC Arprt-KTC",,1202,4689_shp,0,0
+12,3,t717-b4B2-sl3,"KTC-Kal/BC Arprt",,1202,4691_shp,0,0
+12,3,t731-b4B2-sl3,"Kal/BC Arprt-KTC",,1202,4689_shp,0,0
+12,9,t267-b4B1-sl9,"KTC-Kal/BC Arprt",,1201,4690_shp,0,0
+12,9,t281-b4B1-sl9,"Kal/BC Arprt-KTC",,1201,4688_shp,0,0
+12,9,t2CB-b4B1-sl9,"KTC-Kal/BC Arprt",,1201,4690_shp,0,0
+12,9,t2E5-b4B1-sl9,"Kal/BC Arprt-KTC",,1201,4688_shp,0,0
+12,9,t32F-b4B1-sl9,"KTC-Kal/BC Arprt",,1201,4690_shp,0,0
+12,9,t349-b4B1-sl9,"Kal/BC Arprt-KTC",,1201,4688_shp,0,0
+12,9,t587-b4B2-sl9,"KTC-Kal/BC Arprt",,1202,4690_shp,0,0
+12,9,t5A1-b4B2-sl9,"Kal/BC Arprt-KTC",,1202,4688_shp,0,0
+12,9,t5EB-b4B2-sl9,"KTC-Kal/BC Arprt",,1202,4690_shp,0,0
+12,9,t605-b4B2-sl9,"Kal/BC Arprt-KTC",,1202,4688_shp,0,0
+12,9,t64F-b4B2-sl9,"KTC-Kal/BC Arprt",,1202,4690_shp,0,0
+12,9,t669-b4B2-sl9,"Kal/BC Arprt-KTC",,1202,4688_shp,0,0
+12,9,t6B3-b4B2-sl9,"KTC-Kal/BC Arprt",,1202,4690_shp,0,0
+12,9,t6CD-b4B2-sl9,"Kal/BC Arprt-KTC",,1202,4688_shp,0,0
+12,9,t717-b4B2-sl9,"KTC-Kal/BC Arprt",,1202,4690_shp,0,0
+12,9,t731-b4B2-sl9,"Kal/BC Arprt-KTC",,1202,4688_shp,0,0
+13,3,t267-b515-sl3,"KTC - Mjr Wnedge",,1301,4493_shp,0,0
+13,3,t280-b515-sl3,"Mjr Wnedge - KTC",,1301,4477_shp,0,0
+13,3,t2CB-b515-sl3,"KTC - Mjr Wnedge",,1301,4488_shp,0,0
+13,3,t2E4-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t32F-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t348-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t393-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t3AC-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t3F7-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t410-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t45B-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t474-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t4BF-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t4D8-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t523-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t53C-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t587-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t5A0-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t5EB-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t604-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t64F-b515-sl3,"KTC - Mjr Wnedge",,1301,4484_shp,0,0
+13,3,t668-b515-sl3,"Mjr Wnedge - KTC",,1301,4480_shp,0,0
+13,3,t6B3-b515-sl3,"KTC - Mjr Wnedge",,1301,4488_shp,0,0
+13,3,t6CC-b515-sl3,"Mjr Wnedge - KTC",,1301,4482_shp,0,0
+13,3,t717-b515-sl3,"KTC - Mjr Wnedge",,1301,4473_shp,0,0
+13,3,t730-b515-sl3,"Mjr Wnedge - KTC",,1301,4477_shp,0,0
+13,3,t77B-b515-sl3,"KTC - Mjr Wnedge",,1301,4491_shp,0,0
+13,3,t794-b515-sl3,"Mjr Wnedge - KTC",,1301,4477_shp,0,0
+13,3,t7DF-b515-sl3,"KTC - Mjr Wnedge",,1301,4486_shp,0,0
+13,3,t7F8-b515-sl3,"Mjr Wnedge - KTC",,1301,4477_shp,0,0
+13,3,t843-b515-sl3,"KTC - Mjr Wnedge",,1301,4486_shp,0,0
+13,3,t85C-b515-sl3,"Mjr Wnedge - KTC",,1301,4477_shp,0,0
+13,4,t267-b515-sl4,"KTC - Mjr Wnedge",,1301,4501_shp,0,0
+13,4,t280-b515-sl4,"Mjr Wnedge - KTC",,1301,4499_shp,0,0
+13,4,t2CB-b515-sl4,"KTC - Mjr Wnedge",,1301,4501_shp,0,0
+13,4,t2E4-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t32F-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t348-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t393-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t3AC-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t3F7-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t410-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t45B-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t474-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t4BF-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t4D8-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t523-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t53C-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t587-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t5A0-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t5EB-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t604-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t64F-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t668-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t6B3-b515-sl4,"KTC - Mjr Wnedge",,1301,4490_shp,0,0
+13,4,t6CC-b515-sl4,"Mjr Wnedge - KTC",,1301,4470_shp,0,0
+13,4,t717-b515-sl4,"KTC - Mjr Wnedge",,1301,4501_shp,0,0
+13,4,t730-b515-sl4,"Mjr Wnedge - KTC",,1301,4499_shp,0,0
+13,4,t77B-b515-sl4,"KTC - Mjr Wnedge",,1301,4501_shp,0,0
+13,4,t794-b515-sl4,"Mjr Wnedge - KTC",,1301,4499_shp,0,0
+13,4,t7DF-b515-sl4,"KTC - Mjr Wnedge",,1301,4501_shp,0,0
+13,4,t7F8-b515-sl4,"Mjr Wnedge - KTC",,1301,4499_shp,0,0
+13,4,t843-b515-sl4,"KTC - Mjr Wnedge",,1301,4501_shp,0,0
+13,4,t85C-b515-sl4,"Mjr Wnedge - KTC",,1301,4499_shp,0,0
+13,5,t393-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t3AC-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t3F7-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t410-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t45B-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t474-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t4BF-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t4D8-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t523-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t53C-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t587-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t5A0-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t5EB-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t604-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,5,t64F-b9C6-sl5,"KTC - Mjr Wnedge",,2502,4500_shp,0,0
+13,5,t668-b9C6-sl5,"Mjr Wnedge - KTC",,2502,4498_shp,0,0
+13,9,t267-b515-sl9,"KTC - Mjr Wnedge",,1301,4492_shp,0,0
+13,9,t280-b515-sl9,"Mjr Wnedge - KTC",,1301,4476_shp,0,0
+13,9,t2CB-b515-sl9,"KTC - Mjr Wnedge",,1301,4487_shp,0,0
+13,9,t2E4-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t32F-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t348-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t393-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t3AC-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t3F7-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t410-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t45B-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t474-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t4BF-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t4D8-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t523-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t53C-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t587-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t5A0-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t5EB-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t604-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t64F-b515-sl9,"KTC - Mjr Wnedge",,1301,4483_shp,0,0
+13,9,t668-b515-sl9,"Mjr Wnedge - KTC",,1301,4479_shp,0,0
+13,9,t6B3-b515-sl9,"KTC - Mjr Wnedge",,1301,4487_shp,0,0
+13,9,t6CC-b515-sl9,"Mjr Wnedge - KTC",,1301,4481_shp,0,0
+13,9,t717-b515-sl9,"KTC - Mjr Wnedge",,1301,4474_shp,0,0
+13,9,t730-b515-sl9,"Mjr Wnedge - KTC",,1301,4476_shp,0,0
+13,9,t77B-b515-sl9,"KTC - Mjr Wnedge",,1301,4489_shp,0,0
+13,9,t794-b515-sl9,"Mjr Wnedge - KTC",,1301,4476_shp,0,0
+13,9,t7DF-b515-sl9,"KTC - Mjr Wnedge",,1301,4485_shp,0,0
+13,9,t7F8-b515-sl9,"Mjr Wnedge - KTC",,1301,4476_shp,0,0
+13,9,t843-b515-sl9,"KTC - Mjr Wnedge",,1301,4485_shp,0,0
+13,9,t85C-b515-sl9,"Mjr Wnedge - KTC",,1301,4476_shp,0,0
+14,3,t267-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t285-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t2CB-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t2E9-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t32F-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t34D-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t393-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t3B1-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t3F7-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t415-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t45B-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t479-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t4BF-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t4DD-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t523-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t541-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t587-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t5A5-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t5EB-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t609-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t64F-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t66D-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t6B3-b579-sl3,"KTC-Walmart 9th",,1401,4478_shp,0,0
+14,3,t6D1-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t717-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t735-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t77B-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t799-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t7DF-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t7FD-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,3,t843-b579-sl3,"KTC-Walmart 9th",,1401,4469_shp,0,0
+14,3,t861-b579-sl3,"Walmart 9th-KTC",,1401,4472_shp,0,0
+14,4,t267-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t285-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t2CB-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t2E9-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t32F-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t34D-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t393-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t3B1-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t3F7-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t415-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t45B-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t479-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t4BF-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t4DD-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t523-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t541-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t587-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t5A5-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t5EB-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t609-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t64F-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t66D-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t6B3-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t6D1-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t717-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t735-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t77B-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t799-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t7DF-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t7FD-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,4,t843-b579-sl4,"KTC-Walmart 9th",,1401,4467_shp,0,0
+14,4,t861-b579-sl4,"Walmart 9th-KTC",,1401,4471_shp,0,0
+14,5,t393-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t3B1-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t3F7-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t415-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t45B-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t479-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t4BF-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t4DD-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t523-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t541-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t587-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t5A5-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t5EB-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t609-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,5,t64F-b579-sl5,"KTC-Walmart 9th",,1401,4497_shp,0,0
+14,5,t66D-b579-sl5,"Walmart 9th-KTC",,1401,4495_shp,0,0
+14,9,t267-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t285-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t2CB-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t2E9-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t32F-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t34D-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t393-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t3B1-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t3F7-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t415-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t45B-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t479-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t4BF-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t4DD-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t523-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t541-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t587-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t5A5-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t5EB-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t609-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t64F-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t66D-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t6B3-b579-sl9,"KTC-Walmart 9th",,1401,4468_shp,0,0
+14,9,t6D1-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t717-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t735-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t77B-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t799-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t7DF-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t7FD-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+14,9,t843-b579-sl9,"KTC-Walmart 9th",,1401,4466_shp,0,0
+14,9,t861-b579-sl9,"Walmart 9th-KTC",,1401,4475_shp,0,0
+15,3,t285-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t28F-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t2E9-b1F5-sl3,"KTC - Interfaith",,501,4438_shp,0,0
+15,3,t320-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t34D-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t357-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t3B1-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t3BB-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t415-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t41F-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t479-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t483-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t4DD-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t4E7-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t541-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t54B-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t5A5-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t5AF-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t609-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t613-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t66D-b1F5-sl3,"KTC - Interfaith",,501,4438_shp,0,0
+15,3,t6A4-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t6D1-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t6DB-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t735-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t73F-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t799-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t7A3-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t7FD-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t807-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,3,t861-b1F5-sl3,"KTC - Interfaith",,501,4435_shp,0,0
+15,3,t86B-b1F5-sl3,"Interfaith - KTC",,501,4426_shp,0,0
+15,4,t285-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t28F-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t2E9-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t2F3-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t34D-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t357-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t3B1-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t3BB-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t415-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t41F-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t479-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t483-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t4DD-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t4E7-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t541-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t54B-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t5A5-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t5AF-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t609-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t613-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t66D-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t677-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t6D1-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t6DB-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t735-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t73F-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t799-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t7A3-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t7FD-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t807-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,4,t861-b1F5-sl4,"KTC - Interfaith",,501,4433_shp,0,0
+15,4,t86B-b1F5-sl4,"Interfaith - KTC",,501,4424_shp,0,0
+15,5,t3B1-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t3BB-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t415-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t41F-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t479-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t483-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t4DD-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t4E7-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t541-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t54B-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t5A5-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t5AF-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t609-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t613-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,5,t66D-b1F5-sl5,"KTC - Interfaith",,501,4442_shp,0,0
+15,5,t677-b1F5-sl5,"Interfaith - KTC",,501,4439_shp,0,0
+15,9,t285-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t28F-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t2E9-b1F5-sl9,"KTC - Interfaith",,501,4437_shp,0,0
+15,9,t320-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t34D-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t357-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t3B1-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t3BB-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t415-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t41F-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t479-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t483-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t4DD-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t4E7-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t541-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t54B-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t5A5-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t5AF-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t609-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t613-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t66D-b1F5-sl9,"KTC - Interfaith",,501,4437_shp,0,0
+15,9,t6A4-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t6D1-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t6DB-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t735-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t73F-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t799-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t7A3-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t7FD-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t807-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+15,9,t861-b1F5-sl9,"KTC - Interfaith",,501,4431_shp,0,0
+15,9,t86B-b1F5-sl9,"Interfaith - KTC",,501,4422_shp,0,0
+16,3,t267-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t280-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t2CB-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t2E4-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t32F-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t348-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t393-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t3AC-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t3F7-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t410-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t45B-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t474-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t4BF-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t4D8-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t4DD-b642-sl3,"KTC to 58 West",,1602,4686_shp,0,0
+16,3,t51E-b642-sl3,"58 West to KTC",,1602,4680_shp,0,0
+16,3,t523-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t53C-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t541-b642-sl3,"KTC to 58 West",,1602,4686_shp,0,0
+16,3,t582-b642-sl3,"58 West to KTC",,1602,4680_shp,0,0
+16,3,t587-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t5A0-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t5A5-b642-sl3,"KTC to 58 West",,1602,4686_shp,0,0
+16,3,t5E6-b642-sl3,"58 West to KTC",,1602,4680_shp,0,0
+16,3,t5EB-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t604-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t609-b642-sl3,"KTC to 58 West",,1602,4686_shp,0,0
+16,3,t64A-b642-sl3,"58 West to KTC",,1602,4680_shp,0,0
+16,3,t64F-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t668-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t66D-b642-sl3,"KTC to 58 West",,1602,4686_shp,0,0
+16,3,t6AE-b642-sl3,"58 West to KTC",,1602,4680_shp,0,0
+16,3,t6B3-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t6CC-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t717-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t730-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t77B-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t794-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t7DF-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t7F8-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,3,t843-b641-sl3,"KTC to 58 West",,1601,4686_shp,0,0
+16,3,t85C-b641-sl3,"58 West to KTC",,1601,4680_shp,0,0
+16,4,t267-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t280-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t2CB-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t2E4-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t32F-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t348-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t393-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t3AC-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t3F7-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t410-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t45B-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t474-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t4BF-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t4D8-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t523-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t53C-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t587-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t5A0-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t5EB-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t604-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t64F-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t668-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t6B3-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t6CC-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t717-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t730-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t77B-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t794-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t7DF-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t7F8-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,4,t843-b641-sl4,"KTC to 58 West",,1601,4684_shp,0,0
+16,4,t85C-b641-sl4,"58 West to KTC",,1601,4678_shp,0,0
+16,5,t393-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t3AC-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t3F7-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t410-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t45B-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t474-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t4BF-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t4D8-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t523-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t53C-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t587-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t5A0-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t5EB-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t604-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,5,t64F-b641-sl5,"KTC to 58 West",,1601,4674_shp,0,0
+16,5,t668-b641-sl5,"58 West to KTC",,1601,4672_shp,0,0
+16,9,t267-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t280-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t2CB-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t2E4-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t32F-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t348-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t393-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t3AC-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t3F7-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t410-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t45B-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t474-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t4BF-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t4D8-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t4DD-b642-sl9,"KTC to 58 West",,1602,4682_shp,0,0
+16,9,t51E-b642-sl9,"58 West to KTC",,1602,4676_shp,0,0
+16,9,t523-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t53C-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t541-b642-sl9,"KTC to 58 West",,1602,4682_shp,0,0
+16,9,t582-b642-sl9,"58 West to KTC",,1602,4676_shp,0,0
+16,9,t587-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t5A0-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t5A5-b642-sl9,"KTC to 58 West",,1602,4682_shp,0,0
+16,9,t5E6-b642-sl9,"58 West to KTC",,1602,4676_shp,0,0
+16,9,t5EB-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t604-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t609-b642-sl9,"KTC to 58 West",,1602,4682_shp,0,0
+16,9,t64A-b642-sl9,"58 West to KTC",,1602,4676_shp,0,0
+16,9,t64F-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t668-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t66D-b642-sl9,"KTC to 58 West",,1602,4682_shp,0,0
+16,9,t6AE-b642-sl9,"58 West to KTC",,1602,4676_shp,0,0
+16,9,t6B3-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t6CC-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t717-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t730-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t77B-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t794-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t7DF-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t7F8-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+16,9,t843-b641-sl9,"KTC to 58 West",,1601,4682_shp,0,0
+16,9,t85C-b641-sl9,"58 West to KTC",,1601,4676_shp,0,0
+19,3,t2DA-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t2E4-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t320-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t32A-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t33E-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t348-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t384-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t38E-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t3A2-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t3AC-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t3E8-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t3F2-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t406-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t410-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t44C-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t456-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t46A-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t474-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t4B0-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t4BA-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t4CE-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t4D8-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t514-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t51E-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t532-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t53C-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t578-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t582-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t596-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t5A0-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t5DC-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t5E6-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t5FA-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t604-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t640-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t64A-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t65E-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t668-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t6A4-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t6AE-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t6C2-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t6CC-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t708-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t712-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,3,t726-b76D-sl3,"WMU-HealthColge",,1901,4670_shp,0,0
+19,3,t730-b76D-sl3,"HealthColge-WMU",,1901,4666_shp,0,0
+19,9,t2DA-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t2E4-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t320-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t32A-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t33E-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t348-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t384-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t38E-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t3A2-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t3AC-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t3E8-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t3F2-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t406-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t410-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t44C-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t456-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t46A-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t474-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t4B0-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t4BA-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t4CE-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t4D8-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t514-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t51E-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t532-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t53C-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t578-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t582-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t596-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t5A0-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t5DC-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t5E6-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t5FA-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t604-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t640-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t64A-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t65E-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t668-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t6A4-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t6AE-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t6C2-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t6CC-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t708-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t712-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t726-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t730-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t76C-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t776-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t78A-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t794-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t7D0-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t7DA-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t7EE-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t7F8-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t834-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t83E-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+19,9,t852-b76D-sl9,"WMU-HealthColge",,1901,4668_shp,0,0
+19,9,t85C-b76D-sl9,"HealthColge-WMU",,1901,4664_shp,0,0
+21,3,t2BC-b835-sl3,"Kendal/Lafayette",,2101,4331_shp,0,0
+21,3,t2C0-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t2CF-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t2DE-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t2ED-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t324-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t333-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t342-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t351-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t388-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t397-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t3A6-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t3B5-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t3EC-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t3FB-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t40A-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t419-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t450-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t45F-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t46E-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t47D-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t4B4-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t4C3-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t4D2-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t4E1-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t518-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t527-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t536-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t545-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t57C-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t58B-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t59A-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t5A9-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t5E0-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t5EF-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t5FE-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t60D-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t644-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t653-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t662-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t671-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t6A8-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t6B7-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t6C6-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t6D5-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t70C-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t71B-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t72A-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t739-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t770-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t77F-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t78E-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t79D-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t7D4-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t7E3-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t7F2-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t801-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t838-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t847-b835-sl3,"Kendal/Lafayette",,2101,4329_shp,0,0
+21,3,t856-b835-sl3,"Kendal/Lafayette",,2101,4336_shp,0,0
+21,3,t865-b835-sl3,"Kendal/Lafayette",,2101,4333_shp,0,0
+21,9,t2BC-b835-sl9,"Kendal/Lafayette",,2101,4330_shp,0,0
+21,9,t2C0-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t2CF-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t2DE-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t2ED-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t324-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t333-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t342-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t351-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t388-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t397-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t3A6-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t3B5-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t3EC-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t3FB-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t40A-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t419-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t450-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t45F-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t46E-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t47D-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t4B4-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t4C3-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t4D2-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t4E1-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t518-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t527-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t536-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t545-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t57C-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t58B-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t59A-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t5A9-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t5E0-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t5EF-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t5FE-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t60D-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t644-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t653-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t662-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t671-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t6A8-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t6B7-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t6C6-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t6D5-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t70C-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t71B-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t72A-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t739-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t770-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t77F-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t78E-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t79D-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t7D4-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t7E3-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t7F2-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t801-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t838-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t847-b835-sl9,"Kendal/Lafayette",,2101,4328_shp,0,0
+21,9,t856-b835-sl9,"Kendal/Lafayette",,2101,4335_shp,0,0
+21,9,t865-b835-sl9,"Kendal/Lafayette",,2101,4332_shp,0,0
+25,3,t285-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t2C1-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t2D5-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t2E9-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t325-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t339-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t34D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t389-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t39D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t3B1-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t3ED-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t401-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t415-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t451-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t465-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t479-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t4B5-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t4C9-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t4DD-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t519-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t52D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t541-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t57D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t591-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t5A5-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t5E1-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t5F5-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t609-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t645-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t659-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t66D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t6A9-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t6BD-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t6D1-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t70D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t721-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t735-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t771-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t785-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t799-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t7D5-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t7E9-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t7FD-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t839-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,3,t84D-b9C7-sl3,"WMU-Parkview",,2503,4671_shp,0,0
+25,3,t861-b9C7-sl3,"Parkview-WMU",,2503,4667_shp,0,0
+25,9,t285-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t2C1-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t2C1-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t2D5-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t2D5-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t2E9-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t2E9-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t325-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t325-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t339-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t339-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t34D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t34D-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t389-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t389-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t39D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t39D-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t3B1-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t3B1-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t3ED-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t3ED-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t401-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t401-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t415-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t415-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t451-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t451-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t465-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t465-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t479-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t479-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t4B5-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t4B5-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t4C9-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t4C9-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t4DD-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t4DD-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t519-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t519-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t52D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t52D-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t541-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t541-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t57D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t57D-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t591-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t591-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t5A5-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t5A5-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t5E1-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t5E1-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t5F5-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t5F5-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t609-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t609-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t645-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t645-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t659-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t659-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t66D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t66D-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t6A9-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t6A9-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t6BD-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t6BD-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t6D1-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t6D1-b9C6-sl9,"WMU-Parkview",,2502,4669_shp,0,0
+25,9,t70D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t70D-b9C6-sl9,"Parkview-WMU",,2502,4665_shp,0,0
+25,9,t721-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t735-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t771-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t785-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t799-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t7D5-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t7E9-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t7FD-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t839-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+25,9,t84D-b9C5-sl9,"WMU-Parkview",,2501,4669_shp,0,0
+25,9,t861-b9C5-sl9,"Parkview-WMU",,2501,4665_shp,0,0
+26,3,t279-bA29-sl3,"Mulbery Pt-Xrds",,2601,4585_shp,0,0
+26,3,t285-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t2BF-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t2E9-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t323-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t34D-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t387-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t3B1-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t3EB-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t415-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t44F-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t479-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t4B3-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t4DD-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t517-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t541-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t57B-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t5A5-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t5DF-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t609-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t643-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t66D-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t6A7-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t6D1-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t70B-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t735-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t76F-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t799-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t7D3-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,3,t7FD-bA29-sl3,"Xrds-Mulbery Pt",,2601,4590_shp,0,0
+26,3,t837-bA29-sl3,"Mulbery Pt-Xrds",,2601,4589_shp,0,0
+26,4,t279-bA29-sl4,"Mulbery Pt-Xrds",,2601,4586_shp,0,0
+26,4,t285-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t2BF-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t2E9-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t323-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t34D-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t387-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t3B1-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t3EB-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t415-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t44F-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t479-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t4B3-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t4DD-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t517-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t541-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t57B-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t5A5-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t5DF-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t609-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t643-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t66D-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t6A7-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t6D1-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t70B-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t735-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t76F-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t799-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t7D3-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,4,t7FD-bA29-sl4,"Xrds-Mulbery Pt",,2601,4587_shp,0,0
+26,4,t837-bA29-sl4,"Mulbery Pt-Xrds",,2601,4588_shp,0,0
+26,5,t3A5-bA29-sl5,"Mulbery Pt-Xrds",,2601,4594_shp,0,0
+26,5,t3B1-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t3EB-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,5,t415-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t44F-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,5,t479-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t4B3-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,5,t4DD-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t517-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,5,t541-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t57B-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,5,t5A5-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t5DF-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,5,t609-bA29-sl5,"Xrds-Mulbery Pt",,2601,4595_shp,0,0
+26,5,t643-bA29-sl5,"Mulbery Pt-Xrds",,2601,4593_shp,0,0
+26,9,t279-bA29-sl9,"Mulbery Pt-Xrds",,2601,4592_shp,0,0
+26,9,t285-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t2BF-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t2E9-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t323-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t34D-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t387-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t3B1-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t3EB-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t415-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t44F-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t479-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t4B3-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t4DD-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t517-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t541-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t57B-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t5A5-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t5DF-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t609-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t643-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t66D-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t6A7-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t6D1-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t70B-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t735-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t76F-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t799-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t7D3-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+26,9,t7FD-bA29-sl9,"Xrds-Mulbery Pt",,2601,4584_shp,0,0
+26,9,t837-bA29-sl9,"Mulbery Pt-Xrds",,2601,4591_shp,0,0
+27,3,t271-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t285-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t2D5-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t2E9-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t339-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t34D-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t39D-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t3B1-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t401-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t415-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t465-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t479-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t4C9-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t4DD-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t52D-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t541-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t591-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t5A5-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t5F5-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t609-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t659-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t66D-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t6BD-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t6D1-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t721-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t735-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t785-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t799-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t7E9-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,3,t7FD-bA8D-sl3,"Medth/Sprk-Xrds",,2701,4506_shp,0,0
+27,3,t84D-bA8D-sl3,"Xrds-merth/sprk",,2701,4502_shp,0,0
+27,4,t271-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t285-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t2D5-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t2E9-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t339-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t34D-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t39D-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t3B1-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t401-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t415-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t465-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t479-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t4C9-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t4DD-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t52D-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t541-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t591-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t5A5-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t5F5-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t609-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t659-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t66D-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t6BD-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t6D1-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t721-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t735-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t785-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t799-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t7E9-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,4,t7FD-bA8D-sl4,"Medth/Sprk-Xrds",,2701,4505_shp,0,0
+27,4,t84D-bA8D-sl4,"Xrds-merth/sprk",,2701,4504_shp,0,0
+27,5,t39D-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t3B1-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t401-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t415-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t465-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t479-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t4C9-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t4DD-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t52D-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t541-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t591-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t5A5-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t5F5-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,5,t609-bA8D-sl5,"Medth/Sprk-Xrds",,2701,4508_shp,0,0
+27,5,t659-bA8D-sl5,"Xrds-merth/sprk",,2701,4509_shp,0,0
+27,9,t271-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t285-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t2D5-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t2E9-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t339-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t34D-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t39D-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t3B1-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t401-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t415-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t465-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t479-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t4C9-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t4DD-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t52D-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t541-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t591-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t5A5-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t5F5-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t609-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t659-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t66D-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t6BD-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t6D1-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t721-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t735-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t785-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t799-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t7E9-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
+27,9,t7FD-bA8D-sl9,"Medth/Sprk-Xrds",,2701,4503_shp,0,0
+27,9,t84D-bA8D-sl9,"Xrds-merth/sprk",,2701,4507_shp,0,0
